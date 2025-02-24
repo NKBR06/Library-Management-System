@@ -67,7 +67,7 @@ LibraryManagementSystem/
 ### Steps to Run the Project:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/archanavk0712/library-management-system.git
+   git clone https://github.com/NKBR06/library-management-system.git
    ```
 2. Open the project in **NetBeans**.
 3. Configure **Oracle Database** connection in `UserDAO.java` and `BookDAO.java`.
